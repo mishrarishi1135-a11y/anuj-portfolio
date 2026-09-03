@@ -167,7 +167,7 @@ Anuj's Portfolio/
 
 - **Author:** Anuj Mishra
 - **Institution:** Sant Longowal Institute of Engineering and Technology (SLIET)
-- **GitHub:** [@mishrarishi1135-a11y](https://github.com/mishrarishi1135-a11y)
+- **GitHub:** [mishrarishi1135-a11y](https://github.com/mishrarishi1135-a11y)
 
 ---
 
