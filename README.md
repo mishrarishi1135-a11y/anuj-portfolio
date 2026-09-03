@@ -90,8 +90,8 @@ This repository contains the source code for **Anuj Mishra's Personal Portfolio*
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/anujmishra1823-boop/YOUR-REPO-NAME.git
-   cd "Anuj's Portfolio"
+   git clone https://github.com/mishrarishi1135-a11y/anuj-portfolio.git
+   cd "anuj-portfolio"
    ```
 
 2. **Install dependencies:**
