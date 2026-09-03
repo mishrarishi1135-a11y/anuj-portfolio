@@ -1,0 +1,22 @@
+[
+  {
+    "id": "proj-1",
+    "title": "Full-Stack E-Commerce & Recommendation System",
+    "category": "Web Development",
+    "techStack": "Spring Boot, Spring AI, React.js, PostgreSQL, OpenAI API",
+    "description": "An enterprise-grade e-commerce application featuring a robust Spring Boot backend and dynamic React frontend. Integrated Spring AI to run context-aware product recommendation agents based on user browsing history and vector search embeddings in PostgreSQL.",
+    "demoLink": "https://example.com/demo",
+    "githubLink": "https://github.com",
+    "imageUrl": "https://images.unsplash.com/photo-1557821552-17105176677c?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "proj-2",
+    "title": "Smart City Traffic Management System",
+    "category": "Engineering",
+    "techStack": "Python, OpenCV, TensorFlow, Raspberry Pi",
+    "description": "An IoT-enabled smart traffic light system that detects vehicle density using real-time computer vision and dynamically optimizes green light intervals. Built model with TensorFlow and deployed on Raspberry Pi using digital control signals.",
+    "demoLink": "https://example.com/demo",
+    "githubLink": "https://github.com",
+    "imageUrl": "https://images.unsplash.com/photo-1509062522246-3755977927d7?auto=format&fit=crop&w=800&q=80"
+  }
+]
